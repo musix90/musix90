@@ -1,16 +1,20 @@
-## Hi there 👋
+# Musix90 — APK Releases
 
-<!--
-**musix90/musix90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official APK distribution repository for **Musix90**, an independent offline music player designed for ultrawide Android head units.
 
-Here are some ideas to get you started:
+Musix90 supports local MP3 playback, music library management, playlists, song lyrics, and selected Proton head unit integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Compatibility**
+- Screen target: Ultrawide landscape
+- Minimum Android: Android 8
+- Primary target: Android 9
+
+## Download
+
+Download the latest signed APK from the [Releases](https://github.com/musix90/releases/releases) section.
+
+**Official website:** https://musix90.pages.dev/
+
+## Disclaimer
+
+Musix90 is an independent, unofficial community project. It is not affiliated with or endorsed by PROTON.
