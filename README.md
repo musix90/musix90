@@ -11,7 +11,7 @@ Musix90 supports local MP3 playback, music library management, playlists, song l
 
 ## Download
 
-Download the latest signed APK from the [Releases](https://github.com/musix90/releases/releases) section.
+Download the latest signed APK from the [Releases](https://github.com/musix90/musix90/releases) section.
 
 **Official website:** https://musix90.pages.dev/
 
