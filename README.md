@@ -17,4 +17,4 @@ Download the latest signed APK from the [Releases](https://github.com/musix90/re
 
 ## Disclaimer
 
-Musix90 is an independent, unofficial community project. It is not affiliated with or endorsed by PROTON.
+Musix90 is an independent, unofficial personal project developed for the community. It is not affiliated with or endorsed by PROTON.
